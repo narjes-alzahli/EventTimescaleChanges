@@ -11,6 +11,6 @@ All results reported in the manuscript can be reproduced by running main.py.
 
 This code was originally run with:
 
-Python version: 3.7.12;
-Brainiak version: 0.11
+- Python version: 3.7.12
+- Brainiak version: 0.11
 
