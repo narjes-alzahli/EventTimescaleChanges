@@ -7,12 +7,10 @@ All results reported in the manuscript can be reproduced by running main.py.
 
 > ⚠️ Note: Running all permutations, viewings, and event counts across subjects and clips will be computationally intensive (potentially multiple days depending on configuration). We recommend modifying the permutation loops to take advantage of parallelization if available.
 
----
-
 ## Environment & Dependencies
 
 This code was originally run with:
 
-Python version: 3.7.12
+Python version: 3.7.12;
 brainiak version: 0.11
 
