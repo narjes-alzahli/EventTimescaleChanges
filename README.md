@@ -1,5 +1,7 @@
 # Code for "Repeated Viewing of a Narrative Movie Changes Event Timescales in The Brain"
 
+## Data & Usage
+
 The code in this repository can be used to reproduce the results of Al-Zahli, Aly, and Baldassano, "Repeated Viewing of a Narrative Movie Changes Event Timescales in The Brain." Preprint. August, 2025.
 
 Data from "Learning Naturalistic Temporal Structure in the Posterior Medial Network" was preprocessed using FSL.
@@ -13,4 +15,3 @@ This code was originally run with:
 
 - Python version: 3.7.12
 - Brainiak version: 0.11
-
